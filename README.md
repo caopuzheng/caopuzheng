@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @caopuzheng
 - 👀 I’m interested in quant finance and AI/ML
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: caopuzheng@gmail.com
 
 <!---
