@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @caopuzheng
-- 👀 I’m interested in quant finance and AI/ML
-- 🌱 I’m currently learning data science
-- 📫 How to reach me: caopuzheng@gmail.com
+- 👋 Hi, I’m Ray Cao (@caopuzheng).
+- 👀 quant finance and AI/ML
+- 🌱 learning data science
+- 📫 caopuzheng@gmail.com
 
 <!---
 caopuzheng/caopuzheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
